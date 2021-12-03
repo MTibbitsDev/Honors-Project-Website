@@ -1,4 +1,4 @@
-# myWebsite
+# Honors Project Website
 A website about me created for my CSE 383 course as an Honors Project.
 Page 1: My resume with expanded details.
 Page 2: Some of my interests and hobbies.
